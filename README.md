@@ -4,7 +4,9 @@ A repository of working groups, code repositories, and research being done with 
 
 ## Working Groups
 Nova Scotia
+
 Ontario
+
 France
 
 ## Code Repositories
