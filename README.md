@@ -7,9 +7,9 @@ A repository of working groups, code repositories, and research being done with 
 
 **Lab Coordinator**: Malcolm Heywood
 
-**Current Students**: Robert Smith
+**Current Students**: Robert Smith, Bryce MacInnis
 
-**Current Research**: Digital world navigation, transfer learning, video game applications
+**Current Research**: Digital world navigation, transfer learning, video game applications, offline reinforcement learning, interpretable control.
 
 Website: [Link](https://web.cs.dal.ca/~mheywood/)
 
